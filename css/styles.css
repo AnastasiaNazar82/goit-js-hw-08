@@ -31,3 +31,6 @@ img {
   flex-wrap: wrap;
   gap: 24px;
 }
+.gallery-item:hover {
+  transform: scale(1.05);
+}
